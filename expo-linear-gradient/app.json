@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MiniGameApp",
-    "slug": "MiniGameApp",
+    "name": "expo-linear-gradient",
+    "slug": "expo-linear-gradient",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,9 +25,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-font"
-    ]
+    }
   }
 }
